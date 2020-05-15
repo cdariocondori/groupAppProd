@@ -1,0 +1,7 @@
+{
+  "name": "groupApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
